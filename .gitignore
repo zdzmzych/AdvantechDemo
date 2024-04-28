@@ -1,0 +1,8 @@
+*.cdb
+*.exe
+*.cws
+App/cvibuild.AdvantechLister/*
+*.niobj
+Lib/cvibuild.Advantech/build.ini
+/App/cvibuild.AdvantechDemo/build.ini
+/App/cvibuild.AdvantechDemo/*.bri

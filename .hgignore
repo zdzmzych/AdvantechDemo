@@ -1,0 +1,6 @@
+syntax: glob
+.hgignore
+*.cdb
+*.cws
+*.exe
+cvibuild*
